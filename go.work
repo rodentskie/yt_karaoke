@@ -2,5 +2,7 @@ go 1.26
 
 use (
 	./apps/api
+	./apps/migration
+	./apps/ws
 	./libs/go/env
 )
